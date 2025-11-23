@@ -55,13 +55,17 @@ library-inventory-manager-KumarPartha/
 
 ---
 
-##Screenshot
-<img width="220" height="597" alt="Screenshot 2025-11-21 213707" src="https://github.com/user-attachments/assets/3103446a-0e80-4baa-b29b-823c153cd628" />
-<img width="651" height="517" alt="Screenshot 2025-11-21 213749" src="https://github.com/user-attachments/assets/dbc9b8c5-8cfd-4ec4-a058-0d9bacee5b65" />
+## Screenshot
+
+<img width="220" height="597" alt="Screenshot 2025-11-21 213707" src="https://github.com/user-attachments/assets/b2bd2909-0e10-4ae7-8820-5f4cac8a4461" />
+<img width="651" height="517" alt="Screenshot 2025-11-21 213749" src="https://github.com/user-attachments/assets/603c96a9-ecb9-4991-bb05-34d6a03235b5" />
+
+
 
 ---
 
-##Author
-Name: Kumar Partha
-Roll no: 2501410008
-Course: B.tech Computer science with cybersecurity
+## Author Information
+**Name:** Kumar Partha  
+**Roll No:** 2501410008  
+**Course:** B.Tech Computer Science with Cybersecurity
+
