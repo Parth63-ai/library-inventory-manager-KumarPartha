@@ -25,16 +25,18 @@ This version is implemented in a **single Python file**:
 ---
 
 ## Folder Structure
+
+```
 library-inventory-manager-KumarPartha/
 │
-├── Library_management.py # Main program (OOP + TXT handling)
+├── Library_management.py      # Main program (OOP + TXT handling)
 │
 ├── data/
-│ └── library.txt # Book catalog file
+│   └── library.txt            # Book catalog file
 │
 └── README.md
+```
 
----
 
 ## Usage
 
